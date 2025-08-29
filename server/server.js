@@ -11,7 +11,7 @@ const app = express()
 
 await connectCloudinary()
 app.use(cors({
-  origin: "http://localhost:5173", 
+  origin: "https://quick-ai-server-ten-nu.vercel.app", 
   credentials: true,
   allowedHeaders: ["Content-Type", "Authorization"]
 }));
