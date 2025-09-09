@@ -39,4 +39,4 @@ Payments: Stripe (for subscriptions)
 
 AI APIs: OpenAI API, ClipDrop API
 
-Deployment: Vercel (Frontend), Render (Backend)
+Deployment: Vercel 
